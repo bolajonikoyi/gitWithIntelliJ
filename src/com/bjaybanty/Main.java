@@ -8,6 +8,13 @@ public class Main {
         System.out.println(p.getName());
         System.out.println("This is interesting");
         System.out.println("This is interesting");
+        System.out.println("This is interesting");
+        System.out.println("This is interesting");
+
+        System.out.println("This is interesting");
+        System.out.println("This is interesting");
+        System.out.println("This is interesting");
+        System.out.println("This is interesting");
 
     }
 }
