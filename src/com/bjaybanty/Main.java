@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello World");
         Product p = new Product("PS5");
         System.out.println(p.getName());
+        System.out.println("This is interesting");
 
     }
 }
