@@ -27,4 +27,10 @@ public class Main {
         System.out.println("This is interesting");
 
     }
+
+    public void method1() {
+        System.out.println("Hello World");
+        System.out.println("This is interesting");
+
+    }
 }
